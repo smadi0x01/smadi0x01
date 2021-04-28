@@ -16,12 +16,10 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/rootsmadi)
 
 ### Tools
-
-
 **Software development** :
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/rootsmadi "Visual Studio")](https://github.com/Cmmdx0)
 
 
 #                                                                    *STATS*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmaddi&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&theme=dark)
