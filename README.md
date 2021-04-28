@@ -13,13 +13,13 @@
 #                                                                    *Languages and tools*
 
 **Python**:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/rootsmadi)
 
 ### Tools
 
 
 **Software development**
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/kro0oz "Visual Studio")](https://github.com/Cmmdx0)
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/rootsmadi "Visual Studio")](https://github.com/Cmmdx0)
 
 
 #                                                                    *STATS*
