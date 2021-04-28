@@ -17,7 +17,7 @@
 
 ### Tools
 **Software development**
- [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/visualstudiocode "Visual Studio")](https://github.com/python)
+ [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/vscode "Visual Studio")](https://github.com/vscode)
 
 
 #                                                                    *STATS*
