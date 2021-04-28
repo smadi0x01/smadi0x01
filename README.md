@@ -13,11 +13,11 @@
 #                                                                    *Languages and tools*
 
 **Python**
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/python)](https://github.com/https://github.com/rootsmadi)
+ [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/python)](https://github.com/https://github.com/python)
 
 ### Tools
 **Software development**
- [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/visualstudiocode "Visual Studio")](https://github.com/rootsmadi)
+ [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/visualstudiocode "Visual Studio")](https://github.com/python)
 
 
 #                                                                    *STATS*
