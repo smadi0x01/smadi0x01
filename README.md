@@ -10,3 +10,4 @@
 
 [instagram]: https://instagram.com/rootsmadi
 [linkedin]: https://linkedin.com/in/saud-smadi
+[telegram]: https://t.me/rootsmadi
