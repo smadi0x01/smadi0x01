@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
 
-<p align="center"> Hey there, I'm rootsmadi - I code </> for fun it is not my main field</p>
+<p align="center"> Hey there, Its rootsmadi - I code </> for fun it is not my main field</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
 
 
