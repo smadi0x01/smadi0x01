@@ -1,16 +1,31 @@
-### Hey there, I'm rootsmadi - I code </> for fun it is not my main field 👻
+#                                                                    
 
-### Languages and Tools:
+<p align="center">
+<a href="https://twitter.com/1337kro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://t.me/wisbvb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
 
-### Connect with me:
+<p align="center"> Hey there, I'm rootsmadi - I code </> for fun it is not my main field</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+#                                                                    *Languages and tools*
+
+**Python**:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
+
+### Tools
+
+
+**Software development**
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/kro0oz "Visual Studio")](https://github.com/Cmmdx0)
+
+
+#                                                                    *STATS*
+
 
 </details>
 
