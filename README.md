@@ -22,12 +22,12 @@
 
 #                                                                    **STATS**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rootsmadi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi's stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" />
+
+<a href="https://github.com/rootsmadi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" alt="rootsmadi's stats" />
 </a>
 
 ### Spotify Playing 🎧
