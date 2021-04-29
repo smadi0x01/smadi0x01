@@ -14,7 +14,6 @@
 
 **Python**
  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/python)](https://github.com/python)
- [![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=bash&link=https://github.com/Bash)](https://github.com/python)
 
 **Software development**
  [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/microsoft/vscode "Visual Studio")](https://github.com/microsoft/vscode)
