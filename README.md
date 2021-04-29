@@ -14,7 +14,7 @@
 
 **Python**
  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/python)](https://github.com/python)
-
+ [![Python](https://img.shields.io/badge/-Bash-black?style=flat&logo=bash&link=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSyslog777%2FLinux-Bash-Tutorial&psig=AOvVaw0s06BQANdOaky8cfhpbnt6&ust=1619770292059000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDqgduAo_ACFQAAAAAdAAAAABAD)](https://github.com/Bash)
 **Software development**
  [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/microsoft/vscode "Visual Studio")](https://github.com/microsoft/vscode)
 
