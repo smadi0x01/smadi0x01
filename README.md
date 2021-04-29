@@ -6,6 +6,9 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
 
+<img align="right" alt="Image" height="250" width="250"  src="https://miro.medium.com/max/1400/0*FNuuMwDdv77y7ZPI" />
+
+
 <p align="center"> Hey there, Its rootsmadi ~ I code </> for fun it's not my main field .</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rootsmadi" alt="rootsmadi's profile views" /> </p>
 
