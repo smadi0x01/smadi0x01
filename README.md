@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> Hey there, Its rootsmadi ~ I code </> for fun it's not my main field .</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rootsmadi" alt="" /> </p>
 
 
 #                                                                    *Languages and tools*
