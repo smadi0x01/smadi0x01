@@ -22,7 +22,7 @@
 
 #                                                                    *STATS*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&show_icons=true&theme=dark)(https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&theme=dark)
 
 ### Spotify Playing 🎧
 
