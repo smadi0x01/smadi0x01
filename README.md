@@ -13,7 +13,7 @@
 #                                                                    *Languages and tools*
 
 **Python**
- [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/python)](https://github.com/python)
+ <img align="" alt="Python" width="25px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fp%2Fpython-logo-black-and-white%2F&psig=AOvVaw1_1gZXGmG87LLNlwMsmrqO&ust=1619771463851000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjHqIeFo_ACFQAAAAAdAAAAABAD" />
  <img align="" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  
 **Software development**
