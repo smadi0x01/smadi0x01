@@ -23,13 +23,13 @@
 #                                                                    *STATS*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.rootsmadi.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.rootsmadi.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" />
 </a>
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]()
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="" width="350" />]()
