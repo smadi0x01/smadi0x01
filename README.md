@@ -13,7 +13,7 @@
 #                                                                    *Languages and tools*
 
 **Python**
- <img align="" alt="Python" width="25px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-black-and-white.png" />
+ <img align="" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
  <img align="" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  
 **Software development**
