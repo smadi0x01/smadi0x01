@@ -6,7 +6,7 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="gif" height="250" width="250"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/754d9b26124845.5634ffb46ed45.gif" />
+<img align="right" alt="gif" height="250" width="250"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5807eb26124845.5634ffb477f01.gif" />
 
 
 <p align="center"> Hey there, Its rootsmadi ~ I code </> for fun it's not my main field .</p>
