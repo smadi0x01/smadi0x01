@@ -13,7 +13,7 @@
 #                                                                    *Languages and tools*
 
 **Python & Bash**
- <img align="" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+ <img align="" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" />
  <img align="" alt="Terminal" width="25px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
  
 **Software development**
