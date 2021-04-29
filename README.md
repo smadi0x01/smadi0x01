@@ -6,7 +6,7 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="Image" height="250" width="380"  src="https://miro.medium.com/max/1400/0*FNuuMwDdv77y7ZPI" />
+<img align="right" alt="Image" height="250" width="250"  src="https://fsb.zobj.net/crop.php?r=URyc5kH3ym44xHQJ3d2QpH8WQ_BV2KbmTVtTp1eieMmayNjpL-2mCi2AI8btXYCW8pb77UUP2M32s6gnh9-n7osRfs_IxgKxYiENG2xgd1caI6rBObpuIBVyvHCCrPmRBSbAsRnnneUOhhbB8WOdzHeBMKcqplhORZyOdnF0wXkle4eAeMaJDQEg3cM" />
 
 
 <p align="center"> Hey there, Its rootsmadi ~ I code </> for fun it's not my main field .</p>
