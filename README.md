@@ -17,7 +17,7 @@
 
 **Python & Bash**
  <img align="" alt="Python" width="25px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-black-and-white.png" />
- <img align="" alt="Bash" width="25px" src="https://mpng.subpng.com/20180320/jcw/kisspng-circle-brand-symbol-font-app-terminal-5ab0ebeebfe475.547184531521544174786.jpg" />
+ <img align="" alt="Bash" width="25px" src="https://mpng.subpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" />
  
 **Software development**
  <img align="center" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
