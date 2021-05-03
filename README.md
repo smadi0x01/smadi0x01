@@ -1,9 +1,9 @@
 #                                                                    
 
 <p align="center">
-<a href="https://instagram.com/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootsmadi's instagram" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootsmadi's linkedin" height="20" width="20" /></a>
-<a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
+<a href="https://instagram.com/rootsmadi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootsmadi's instagram" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/saud-smadi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootsmadi's linkedin" height="20" width="20" /></a>
+<a href="https://t.me/rootsmadi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
 
 <img align="right" alt="gif" height="250" width="250"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/754d9b26124845.5634ffb46ed45.gif" />
@@ -26,11 +26,11 @@
 #                                                                    **STATS**
 
 <a href="https://github.com/rootsmadi">
-  <img align="center" target=”_blank” src="https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi's stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi's stats" />
 </a>
 
 <a href="https://github.com/rootsmadi">
-  <img align="center" target=”_blank” src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" alt="rootsmadi's stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" alt="rootsmadi's stats" />
 </a>
 
 ### Spotify Playing 🎧
