@@ -9,7 +9,7 @@
 <img align="right" alt="gif" height="250" width="250"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/754d9b26124845.5634ffb46ed45.gif" />
 
 
-<p align="center"> Hey there, Its rootsmadi ~ I write code </> for fun it's not my main speciality . </p>
+<p align="center"> Hey there, Its rootsmadi ~ I code </> for fun it's not my main speciality . </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rootsmadi" alt="rootsmadi's profile views" /> </p>
 
 
