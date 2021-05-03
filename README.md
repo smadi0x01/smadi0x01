@@ -1,8 +1,8 @@
 #                                                                    
 
 <p align="center">
-<a href="https://instagram.com/rootsmadi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootsmadi's instagram" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/saud-smadi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootsmadi's linkedin" height="20" width="20" /></a>
+<a href="https://instagram.com/rootsmadi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" target=”_blank” alt="rootsmadi's instagram" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/saud-smadi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" target=”_blank” alt="rootsmadi's linkedin" height="20" width="20" /></a>
 <a href="https://t.me/rootsmadi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" target=”_blank” alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
 
