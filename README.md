@@ -1,7 +1,7 @@
 #                                                                    
 
 <p align="center">
-<a href="https://instagram.com/rootsmadi" target=”_blank”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootsmadi's instagram" height="20" width="20" /></a>
+<a href="https://instagram.com/smadixd" target=”_blank”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootsmadi's instagram" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/saud-smadi" target=”_blank”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootsmadi's linkedin" height="20" width="20" /></a>
 <a href="https://t.me/rootsmadi" target=”_blank”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="rootsmadi's telegram" height="20" width="20" /></a>
 </p>
