@@ -35,4 +35,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://www.youtube.com/watch?v=Lh0wqjEGvsw&list=WL&index=2" alt="rootsmadi's playlist" width="350" />]()
+[<img src="https://bakdavid.github.io/random-music/" alt="rootsmadi's playlist" width="350" />]()
