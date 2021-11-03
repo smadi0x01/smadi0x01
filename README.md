@@ -35,4 +35,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://bakdavid.github.io/random-music/" alt="rootsmadi's playlist" width="350" />]()
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)]()
