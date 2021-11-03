@@ -35,4 +35,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rootsmadi's playlist" width="350" />]()
+[<img src="https://www.youtube.com/watch?v=Lh0wqjEGvsw&list=WL&index=2" alt="rootsmadi's playlist" width="350" />]()
