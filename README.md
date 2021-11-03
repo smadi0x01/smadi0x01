@@ -33,6 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" alt="rootsmadi's stats" />
 </a>
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
