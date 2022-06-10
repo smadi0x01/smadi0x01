@@ -25,12 +25,12 @@
 
 #                                                                    **STATS**
 
-<a href="https://github.com/rootsmadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootsmadi&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi's stats" />
+<a href="https://github.com/smadi0x01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smadi0x01&show_icons=true&include_all_commits=true&theme=dark" alt="rootsmadi's stats" />
 </a>
 
-<a href="https://github.com/rootsmadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootsmadi&layout=compact&theme=dark" alt="rootsmadi's stats" />
+<a href="https://github.com/smadi0x01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smadi0x01&layout=compact&theme=dark" alt="rootsmadi's stats" />
 </a>
 
 ## Spotify Playing 🎧
